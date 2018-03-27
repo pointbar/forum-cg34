@@ -26,6 +26,11 @@ Mots-clés : moyens, identifier comme ressources, transformation du territoire, 
 - Quels sont les espaces d'écoute et d'accompagnement à créer pour les jeunes voulant changer les choses sur leur territoire ?
 - Quels moyens à imaginer pour aider les jeunes en recherchent de changement sur leur territoire ?
 
+*Proposition Stéphane*
+- Vous êtes jeunes, vous voulez changer votre territoire, comment pouvons-nous vous aider ?
+- Le territoire se transforme. Comment la puissance publique peut-elle devenir ressource pour les jeunes créateurs de projets ?
+- Jeunes aidez-nous à devenir ressource pour vos projets de transformation du territoire ?
+
 # Récolte :
 - Rapport aux élus
 - Recueillir la parole des jeunes - élus - acteurs asso
