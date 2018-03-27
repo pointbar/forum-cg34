@@ -15,15 +15,11 @@ Tout d'abord, pouvez-vous nous confirmer/modifier/compléter la situation actuel
 
 Ensuite, les priorités énoncées :
 
-    Thème
-
-    Restitution
-
-    Coordination logistique
-
-    Restauration
-
-    Visite du lieu
+Thème :
+- Restitution
+- Coordination logistique
+- Restauration
+- Visite du lieu
 
 Nous vous proposons, comme première étape, de finaliser la réflexion sur le thème. Ci-dessous les problématiques que nous avons retenues :
 
