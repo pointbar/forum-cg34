@@ -1,4 +1,4 @@
-#Liste
+# Liste
 * Résumé des infos collectés pour confirmation
 * Rappel des priorités
 * Nos missions
