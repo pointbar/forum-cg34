@@ -19,6 +19,7 @@ Comment aider / accompagner les jeunes qui veulent faire des trucs dans leur ter
 
 
 
+
 Mots-clés : moyens, identifier comme ressources, transformation du territoire, acteurs, à l'écoute, besoins
 
 
