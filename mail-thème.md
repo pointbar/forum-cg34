@@ -11,7 +11,7 @@ Bonjour,
 
 Suite à notre réunion de vendredi dernier, nous revenons vers vous pour répondre à certaines de vos demandes et faire le point avec vous.
 
-Tout d'abord, pouvez-vous nous confirmer/modifier/compléter la situation actuelle (voir framapad : https://annuel2.framapad.org/p/FO-DHjeunesse34 )
+Tout d'abord, pouvez-vous nous confirmer/modifier/compléter la situation actuelle (voir http://www.multibao.org/#pointbar/forum-cg34/blob/master/Fiche-projet.md )
 
 Ensuite, les priorités énoncées :
 
