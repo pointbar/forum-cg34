@@ -57,4 +57,4 @@ Mots-clés : moyens, identifier comme ressources, transformation du territoire, 
 
 # Ressources extérieures 
 - [sondage pour la question](https://docs.google.com/spreadsheets/d/1pOouJDrtXhSB3fO02wLFWOifXcFK92bDq1zBZEKjanM/edit#gid=0)  
-- [liste du matos achété et du matos mis à dispo par le théâtre](https://docs.google.com/spreadsheets/d/1pOouJDrtXhSB3fO02wLFWOifXcFK92bDq1zBZEKjanM/edit#gid=0)  
+- [liste du matos achété et du matos mis à dispo par le théâtre](https://docs.google.com/spreadsheets/d/1jSnGws1awqg1UWVBkN8qPMrUZxiYdUKh4wdShp6TEBU/edit#gid=0)  
