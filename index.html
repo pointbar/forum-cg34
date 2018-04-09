@@ -1,0 +1,60 @@
+<html lang=fr>
+<title>Forum Ouvert CG34</title>
+<meta charset=utf-8>
+<style>
+  @media print {
+    html {
+      transform: scale(.9);
+    }
+  }
+
+  body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+  }
+
+  header {
+    margin: 0;
+    height: 3em;
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.5em;
+    background: #6cbce6;
+  }
+
+  div {
+    margin: 2em;
+    border: grey 1px solid;
+    width: 90%;
+  }
+
+  div header {
+    padding-left: 1em;
+    background: #ccc;
+    height: 2em;
+    line-height: 2em;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  div input {
+    padding: 1em;
+    width: 100%;
+    font-size: 1em;
+  }
+</style>
+<section class=wrapper>
+  <header>Fiches de restitution des ateliers</header>
+  <div>
+    <header>Intitulé de l'atelier</header>
+    <input type=text name=intitule placeholder="J'ai un projet, et j'aurais besoin de ressources locatives, financières, en conseils">
+  </div>
+  <div>
+    <header>Détails : salle, heures, animat·eur·rice, statut</header>
+    <input type=text name=detail placeholder="Le petit parc - 11h-11h45 - Roméo Elvis (jeune entrepren·eur·euse)">
+  </div>
+</section>
+
+</html>
