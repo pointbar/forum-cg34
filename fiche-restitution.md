@@ -1,4 +1,5 @@
 # Forum Ouvert - Département de l'Hérault - Thème
+## Rapport de discussion
 
 * Sujet de l'atelier :
 * Iniciateur du sujet :
