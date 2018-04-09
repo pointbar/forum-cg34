@@ -1,5 +1,5 @@
 # A faire J-1
-* panneaux signalétiques
+- [ ] panneaux signalétiques
 * Imprimer plan
 * préparer salle intérieur (espace chill-out)
 * Board
