@@ -3,8 +3,17 @@
 <meta charset=utf-8>
 <style>
   @media print {
+    @page {
+      size: A4 portrait;
+      margin: .5cm .5cm .5cm .5cm;
+    }
+
     html {
-      transform: scale(.9);
+      transform: scale(1);
+    }
+    body {
+      margin: 0;
+      padding: 0;
     }
   }
 
@@ -24,9 +33,9 @@
   }
 
   div {
-    margin: 2em;
+    margin: 1em;
     border: grey 1px solid;
-    width: 90%;
+    width: 97%;
   }
 
   div header {
@@ -40,33 +49,51 @@
   }
 
   div input,
-  div a {
+  div a,
+  div label,
+  div textarea {
+    border: none;
     padding: 1em;
     width: 100%;
     font-size: 1em;
+  }
+
+  label {
+    color: #ccc;
+    margin-top: 3em;
   }
 </style>
 <section class=wrapper>
   <header>Fiches de restitution des ateliers</header>
   <div>
     <header>Intitulé de l'atelier</header>
-    <input type=text name=intitule placeholder="J'ai un projet, et j'aurais besoin de ressources locatives, financières, en conseils">
+    <label for=intitule>ex: J'ai un projet, et j'aurais besoin de ressources locatives, financières, en conseils"</label>
+    <input type=text name=intitule>
   </div>
   <div>
     <header>Détails : salle, heures, animat·eur·rice, statut</header>
-    <input type=text name=detail placeholder="Le petit parc - 11h-11h45 - Roméo Elvis (jeune entrepren·eur·euse)">
+    <label for=detail>ex: Le petit parc - 11h-11h45 - Sofia Boutella (jeune entrepreneuse)"</label>
+    <input type=text name=detail>
   </div>
   <div>
     <header>Coordonnées de la personne prennant ces notes</header>
-    <input type=text name=contact placeholder="">
+    <label for=contact>ex: Adèle Elvis - adele@protonmail.com</label>
+    <input type=text name=contact>
   </div>
   <div>
-    <header>Pour saisir directement sur un support numérique</header>
-    <a href=https://hackmd.io/Oa0g6PGkQh6geEvlu1i8FQ#>Pad associé : https://hackmd.io/Oa0g6PGkQh6geEvlu1i8FQ#</a>
+    <header>Mots clés</header>
+    <label for=contact>ex: #trap #voguing #rasteirinha</label>
+    <input type=text name=intitule>
   </div>
   <div>
-    <header>Intitulé de l'atelier</header>
-    <input type=text name=intitule placeholder="J'ai un projet, et j'aurais besoin de ressources locatives, financières, en conseils">
+    <header>Notes</header>
+    <label for=contact>ex: Enjeux, Idées à retenir</label>
+    <textarea type=text name=keyword rows=18></textarea>
+  </div>
+  <div>
+    <header>3 actions à mettre en place suite à cet atelier</header>
+    <label for=contact>ex: 1- Forum ouvert 2- Running Lean 3- Quitter l'incubateur</label>
+    <input type=text name=keyword>
   </div>
 </section>
 
