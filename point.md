@@ -1,3 +1,18 @@
+------
+10/04
+------
+
+
+- Interviewer les jeunes, démarche active - pour les recontacter
+- Espace de documentation
+- Note d'intention
+- ---------
+- Préparation informelle de la restitution
+
+-----
+9/04
+-----
+
 * Restitution :
  - Photos
  - Rétrospective
