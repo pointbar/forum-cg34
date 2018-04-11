@@ -19,14 +19,13 @@
 * Intro :
 	- logistique, miam - (cf. lundi)
 
-* Matos
+* Matos. 
         - stylos pour les CR
 	- Afficher les règles pour chaque atelier - (1 loi, 4 règles, 2 postures)
 	- Le board - 2 tables + 1 habillage
 	- Sono - 2 micros HF
 	- Signalétiques pour les espaces
 	- Faire un plan (imprimer la veille)
-        - Support de PaperBoard - (6 - 1 part atelier)
         - Timer
 
 * Les lieux
